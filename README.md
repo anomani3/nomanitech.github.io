@@ -1,1 +1,0 @@
-# nomanitech.github.io
