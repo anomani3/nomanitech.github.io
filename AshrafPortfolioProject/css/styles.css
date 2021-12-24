@@ -261,3 +261,10 @@ h3 > span:hover:before, .nav a:hover:before {
     padding-top: 15px;
   }
 }
+.footer
+{
+  text-align: center;
+  background-color: rgba(180, 168, 231, 0.062);
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
